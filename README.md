@@ -1,3 +1,0 @@
-# Credit-Card-Application
-
-Ola 
